@@ -1,9 +1,2 @@
 agregando linea1
-<<<<<<< HEAD
 linea2
-linea3
-linea4
-linea5
-=======
-linea2
->>>>>>> parent of 6692d0a (linea 3)
